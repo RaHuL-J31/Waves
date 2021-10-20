@@ -1,4 +1,23 @@
-# Getting Started with Create React App
+
+
+
+# Waves Music App
+A React Project created while learning https://developedbyed.com/ React JS course.
+While doing this project I have learnt below react topics with its uses.
+
+Application live link : https://ecstatic-stonebraker-ef80f8.netlify.app/
+
+* Creating React Application and Structuring it.
+* useEffect
+* useState
+* Components in react
+* Props
+* Events
+* useRef
+
+![alt text](https://github.com/RaHuL-J31/Waves/blob/master/src/assets/covers/PlayerHomepage2.PNG)
+  
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
